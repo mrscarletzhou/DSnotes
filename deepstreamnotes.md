@@ -89,6 +89,7 @@ ___autotool is dead, long live the meson___
 尝试下载gst-build来编译最新的gst-core，失败……
 
 日后再做尝试
+git config --global --add safe.directory /opt/nvidia/deepstream/deepstream-6.1/sources/pythonapps/3rdparty/gst-python/common
 
 7. 编译bindings
 ```
