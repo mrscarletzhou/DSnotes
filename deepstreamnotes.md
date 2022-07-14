@@ -118,7 +118,7 @@ make
 
 完成后build文件夹中会出现*pyds-1.1.0-py3-none\*.whl*文件，安装它就大功告成啦~
 ```
-pip3 install ./pyds-1.1.0-py3-none*.whl
+pip3 install ./pyds-1.1.3-py3-none*.whl
 ```
 
 
