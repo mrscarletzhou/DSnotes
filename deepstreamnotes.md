@@ -121,4 +121,9 @@ make
 pip3 install ./pyds-1.1.3-py3-none*.whl
 ```
 
+make时出现gstmodule.c:31:10: fatal error: gst/gst.h: No such file or directory
+
+apt install libjson-glib-dev 
+apt install libgstreamer-plugins-base1.0-dev
+
 
